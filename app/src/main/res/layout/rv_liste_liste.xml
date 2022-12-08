@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/tableauOnglet">
+
+    <TextView
+        android:id="@+id/addTableauVide"
+        android:layout_width="match_parent"
+        android:layout_height="41dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/tableau_text_style"
+        android:gravity="center"
+        android:text="@string/ajouter_tableau_vide"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/tableauOption"
+        android:layout_width="31dp"
+        android:layout_height="41dp"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_toRightOf="@id/tableau"
+        android:gravity="center"
+        android:text="&#8942;"
+        android:textAppearance="?android:textAppearanceLarge"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/tableau_option_style"/>
+
+    <TextView
+        android:id="@+id/tableau"
+        android:layout_width="168dp"
+        android:layout_height="41dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/tableau_text_style"
+        android:gravity="center"
+        android:text="Button"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:id="@+id/addTableau"
+        android:layout_width="52dp"
+        android:layout_height="41dp"
+
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_toRightOf="@id/tableauOption"
+        android:background="@drawable/tableau_text_style"
+        android:gravity="center"
+        android:text="+"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>

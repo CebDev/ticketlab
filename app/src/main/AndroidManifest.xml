@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:dist="http://schemas.android.com/apk/distribution"
+    package="dti.g25.tp1" >
+
+    <dist:module dist:instant="true" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name=".ui.activite.ActiviteListeTickets" >
+        </activity>
+        <activity android:name=".ui.activite.ActiviteModifierTableau" />
+        <activity android:name=".ui.activite.ActiviteAjouterTableau" />
+        <activity android:name=".ui.activite.ActiviteAjouterListe" />
+        <activity android:name=".ui.activite.ActiviteModifierJalon" />
+        <activity android:name=".ui.activite.ActiviteAjouterJalon" />
+        <activity android:name=".ui.activite.ActiviteAfficherJalon" />
+        <activity
+            android:name=".ui.activite.ActiviteAfficherTableaux"
+            android:configChanges="orientation|screenSize|screenLayout|keyboardHidden" />
+        <activity
+            android:name=".ui.activite.ActiviteModifierEtiquette"
+            android:configChanges="orientation|screenSize|screenLayout|keyboardHidden" />
+        <activity
+            android:name=".ui.activite.ActiviteAjouterEtiquette"
+            android:configChanges="orientation|screenSize|screenLayout|keyboardHidden" />
+        <activity
+            android:name=".ui.activite.ActiviteAfficherEtiquette"
+            android:configChanges="orientation|screenSize|screenLayout|keyboardHidden" />
+        <activity
+            android:name=".ui.activite.ActiviteAjouterProjet"
+            android:configChanges="orientation|screenSize|screenLayout|keyboardHidden" />
+        <activity
+            android:name=".ui.activite.ActiviteAfficherProjets"
+            android:configChanges="orientation|screenSize|screenLayout|keyboardHidden" />
+        <activity
+            android:name=".ui.activite.ActiviteModifierProjet"
+            android:configChanges="orientation|screenSize|screenLayout|keyboardHidden" />
+        <activity
+            android:name=".ui.activite.ActiviteGestionProjet"
+            android:configChanges="orientation|screenSize|screenLayout|keyboardHidden" />
+        <activity
+            android:name=".ui.activite.ActiviteModifierTicket"
+            android:configChanges="orientation|screenSize|screenLayout|keyboardHidden" />
+        <activity
+            android:name=".ui.activite.ActiviteAfficherTicket"
+            android:configChanges="orientation|screenSize|screenLayout|keyboardHidden" />
+        <activity
+            android:name=".ui.activite.ActiviteAjouterTicket"
+            android:configChanges="orientation|screenSize|screenLayout|keyboardHidden" />
+        <activity
+            android:name=".ui.activite.MainActivity"
+            android:theme="@style/AppTheme" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

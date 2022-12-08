@@ -1,0 +1,110 @@
+<resources>
+    <string name="app_name">TicketLab</string>
+
+    <!-- Commun -->
+    <string name="modifier">Modifier</string>
+    <string name="ajouter">Ajouter</string>
+    <string name="terminer">Terminer</string>
+    <string name="ouvert">Ouvert</string>
+    <string name="ferme">Fermé</string>
+    <string name="enregistrer">Enregistrer</string>
+    <string name="titre">Titre</string>
+    <string name="description">Description</string>
+    <string name="toast_titre">Vous devez entrer un titre</string>
+    <string name="supprimer">Supprimer</string>
+
+    <!-- Menu -->
+    <string name="toast_menu_ouvert">Menu ouvert</string>
+
+
+    <!-- Ticket -->
+    <string name="fermer">Fermer</string>
+    <string name="rouvrir">Rouvrir</string>
+    <string name="aucune_affectation">Aucune personne n\'est assigné à ce ticket</string>
+    <string name="aucun_jalon">Ce ticket n\'a aucun jalon</string>
+    <string name="choix_aucun_jalon">Aucun jalon</string>
+    <string name="date_echeance">Date d\'échéance</string>
+
+    <string name="etiquettes">Ajouter ou retirer une étiquette</string>
+    <string name="affectation">Assigner à un membre</string>
+    <string name="ajouter_aucun_jalon">Aucun jalon</string>
+
+    <string name="toast_ticket_ajoute">Ticket ajouté</string>
+    <string name="toast_ticket_modifie">Ticket modifié</string>
+    <string name="toast_ticket_ferme">Ticket fermé</string>
+    <string name="toast_ticket_rouvert">Ticket rouvert</string>
+
+
+    <!-- Projet -->
+    <string name="nouveau_projet">Nouveau projet</string>
+    <string name="saisir_recherche">Saisir recherche</string>
+
+    <string name="toast_projet_modifie">Projet modifié</string>
+    <string name="toast_projet_ajoute">Projet ajouté</string>
+
+    <string name="toast_back_home">Home page déjà chargée</string>
+
+    <!-- Tableau -->
+    <string name="ajouter_tableau_vide">Ajouter un Tableau</string>
+    <string name="modification_tableau_projet_titre">Modification de la table dans le Projet : </string>
+    <string name="modification_tableau_titre">Modification de la Table : </string>
+    <string name="nouveau_titre">Nouveau Titre</string>
+    <string name="ajout_dans_projet">Ajout de la table dans le projet : </string>
+    <string name="nouveau_tableau">Nouveau Tableau</string>
+    <string name="ajouter_tableau">Ajouter tableau</string>
+    <string name="gestion_liste">Gestion des Listes</string>
+    <string name="modifier_tableau">Modifier le tableau</string>
+    <string name="supprimer_tableau">Supprimer le tableau</string>
+
+    <!-- Liste -->
+    <string name="ajouter_liste_vide">Ajouter un Tableau pour avoir des Listes</string>
+    <string name="retour">Retour</string>
+    <string name="gestion_liste_titre">Gestion des Listes pour le Tableau </string>
+    <string name="supprimer_liste">Supprimer la Liste</string>
+    <string name="fermes">Fermés</string>
+    <string name="ouverts">Ouverts</string>
+
+    <!-- Jalon -->
+    <string name="ajouter_date_de_debut">Ajouter une date de début</string>
+    <string name="ajouter_date_de_fin">Ajouter une date de fin</string>
+    <string name="afficher_date_de_debut">Date de début</string>
+    <string name="afficher_date_de_fin">Date de fin</string>
+
+    <!-- Etiquette -->
+    <string name="couleur">Couleur (hexadecimal ie : #FF00FF)</string>
+    <string name="confirmer_le_titre_du_projet">Confirmer le titre du projet</string>
+    <string name="suppression">SUPPRESSION</string>
+    <string name="annuler">Annuler</string>
+    <string name="ajouter_un_ticket">Ajouter un ticket</string>
+    <string name="aucune_description">Aucune description</string>
+    <string name="aucune_etiquette">Aucune etiquette</string>
+    <string name="aucune_date_echeance">Aucune date d\'échéance</string>
+    <string name="modifier_projet">Modifier projet</string>
+    <string name="develope_par">Développé par Bryan, Philippe, Sébastien et Simon.</string>
+    <string name="toast_jalon_modifie">Jalon modifié !</string>
+    <string name="toast_jalon_ajoute">Jalon ajouté !</string>
+    <string name="toast_jalon_erreur">Vous devez rentrer un titre, une date de début et une date de fin, qui succède la date de début !</string>
+    <string name="ajouter_date_echeance">Ajouter une date d\'échécance</string>
+    <string name="message_supprimer_tableau">"Supprimer ce tableau ? Ceci supprimera les listes de ce tableau. "</string>
+    <string name="toast_ticket_selectionne">Rien selectionné !</string>
+    <string name="toast_projet_probleme">Un problème d\'enregistrement dans la base de donnée est survenu !</string>
+    <string name="toast_etiquette_modifie">Etiquette modifié !</string>
+    <string name="toast_etiquette_ajoute">Etiquette ajouté !</string>
+    <string name="moi">Moi</string>
+    <string name="toast_etiquette_ajouter_retirer">Ajouter ou retirer des etiquettes !</string>
+    <string name="erreur_validation">Erreur de validation !</string>
+    <string name="toast_erreur_suppresion">Erreur lors de la suppresion !</string>
+    <string name="connexion_base_donne_erreur">Connexion Base de donnée impossible !</string>
+    <string name="toast_aucun_projet_correspondant">Aucun projet correspondants !</string>
+    <string name="btn_plus_etiquetteS">Etiquettes</string>
+    <string name="btn_plus_jalonS">Jalons</string>
+    <string name="toast_couleur_etiquette">Ajouter une couleur dans le format suggerer</string>
+    <string name="expire">Expiré</string>
+    <string name="btn_plus_liste">Afficher en listes</string>
+    <string name="btn_plus_tableau">Afficher en tableaux</string>
+    <string name="toast_etiquette_existe">Ce titre existe déjà</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+</resources>

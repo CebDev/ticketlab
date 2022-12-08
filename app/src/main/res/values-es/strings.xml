@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TicketLab</string>
+    <string name="modifier">Editar</string>
+    <string name="ajouter">Agregar</string>
+    <string name="terminer">Terminar</string>
+    <string name="enregistrer">Guardar</string>
+    <string name="titre">Titular</string>
+    <string name="description">Descripción</string>
+    <string name="toast_titre">Debes ingresar un título</string>
+    <string name="supprimer">Borrar</string>
+    <string name="toast_menu_ouvert">Menú abierto</string>
+    <string name="rouvrir">Reabrir</string>
+    <string name="aucune_affectation">Ninguna persona está asignada a este boleto</string>
+    <string name="aucun_jalon">Este boleto no tiene hitos</string>
+    <string name="date_echeance">fecha de vencimiento</string>
+    <string name="etiquettes">Agregar o quitar una etiqueta</string>
+    <string name="affectation">Ninguna tarea</string>
+    <string name="ajouter_aucun_jalon">Sin hitos</string>
+    <string name="toast_ticket_ajoute">Ticket agregado</string>
+    <string name="toast_ticket_rouvert">Boleto reabierto</string>
+    <string name="toast_ticket_modifie">Boleto modificado</string>
+    <string name="toast_ticket_ferme">Boleto cerrado</string>
+    <string name="nouveau_projet">Nuevo proyecto</string>
+    <string name="toast_projet_modifie">Proyecto modificado</string>
+    <string name="toast_projet_ajoute">Proyecto agregado</string>
+
+    <string name="ajouter_tableau_vide">Agregar un Panel</string>
+    <string name="modification_tableau_projet_titre">Modificación del Panel en el Proyecto : </string>
+    <string name="modification_tableau_titre">Modificación del Panel : </string>
+    <string name="nouveau_titre">Titulo Nuevo</string>
+    <string name="ajout_dans_projet">Nuevo Panel para el Proyecto : </string>
+    <string name="nouveau_tableau">Nuevo Panel</string>
+    <string name="ajouter_tableau">Agregar un Panel</string>
+    <string name="gestion_liste">Gestión de las Listas</string>
+    <string name="modifier_tableau">Editar el Panel</string>
+    <string name="supprimer_tableau">Borrar el Panel</string>
+    <string name="ouvert">Abierto</string>
+    <string name="ferme">Cerrado</string>
+    <string name="choix_aucun_jalon">Sin hitos</string>
+
+
+    <!-- Liste -->
+    <string name="ajouter_liste_vide">Agrege un Panel\npara tener Listas</string>
+    <string name="retour">Regresar</string>
+    <string name="gestion_liste_titre">Gestión de las Listas para el Panel </string>
+    <string name="supprimer_liste">Borrar Lista</string>
+    <string name="fermes">Cerrado</string>
+    <string name="ouverts">Abirtó</string>
+
+    <string name="ajouter_date_de_debut">Agregar una fecha de inicio</string>
+    <string name="ajouter_date_de_fin">Agregar fecha de finalización</string>
+    <string name="afficher_date_de_debut">Fecha de inicio</string>
+    <string name="afficher_date_de_fin">Fecha final</string>
+    <string name="couleur">Color (hexadecimal ie : #FF00FF)</string>
+    <string name="fermer">Cerrar</string>
+    <string name="confirmer_le_titre_du_projet">Confirmar título del proyecto</string>
+    <string name="suppression">Borrar</string>
+    <string name="annuler">Anular</string>
+    <string name="ajouter_un_ticket">Agregar un boleto</string>
+    <string name="aucune_description">Sin descripción</string>
+    <string name="aucune_etiquette">Sin etiqueta</string>
+    <string name="aucune_date_echeance">Sin fecha de vencimiento</string>
+    <string name="modifier_projet">Editar proyecto</string>
+    <string name="develope_par">Desarrollado por Bryan, Philippe, Sébastien y Simon.</string>
+    <string name="toast_jalon_modifie">¡Hito cambiado!</string>
+    <string name="toast_jalon_ajoute">¡Hito agregado!</string>
+    <string name="toast_jalon_erreur">Debe ingresar un título, una fecha de inicio y una fecha de finalización, ¡que sigue a la fecha de inicio!</string>
+    <string name="ajouter_date_echeance">Agregar una fecha de vencimiento</string>
+    <string name="message_supprimer_tableau">¿Eliminar esta tabla? Esto eliminará las listas de esta tabla.</string>
+    <string name="toast_ticket_selectionne">¡Nada seleccionado!</string>
+    <string name="toast_projet_probleme">¡Ha ocurrido un problema con el registro en la base de datos!</string>
+    <string name="toast_etiquette_modifie">¡Etiqueta cambiada!</string>
+    <string name="toast_etiquette_ajoute">¡Etiqueta agregada!</string>
+    <string name="moi">Mí</string>
+    <string name="toast_etiquette_ajouter_retirer">¡Añadir o eliminar etiquetas!</string>
+    <string name="erreur_validation">¡Error de validación!</string>
+    <string name="toast_erreur_suppresion">¡Error al eliminar!</string>
+    <string name="connexion_base_donne_erreur">¡No se puede conectar a la base de datos!</string>
+    <string name="toast_aucun_projet_correspondant">¡No hay proyectos correspondientes!</string>
+    <string name="btn_plus_etiquetteS">Etiquetas</string>
+    <string name="btn_plus_jalonS">Hitos</string>
+    <string name="toast_couleur_etiquette">Agregue un color en el formato sugerido</string>
+
+    <string name="toast_back_home">You are already at the home page</string>
+    <string name="saisir_recherche">Saisir recherche</string>
+    <string name="expire">Expiré</string>
+    <string name="toast_etiquette_existe">Label already exist</string>
+</resources>

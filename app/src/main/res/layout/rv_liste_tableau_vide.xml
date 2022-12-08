@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/listeVide">
+
+    <TextView
+        android:id="@+id/listeVideMessage"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:gravity="center"
+        android:text="Ajouter un tableau\npour avoir des listes"
+        android:textColor="#555353"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>

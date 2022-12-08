@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TicketLab</string>
+    <string name="modifier">Modify</string>
+    <string name="ajouter">Add</string>
+    <string name="terminer">Finish</string>
+    <string name="enregistrer">Save</string>
+    <string name="titre">Title</string>
+    <string name="description">Description</string>
+    <string name="toast_titre">You need to enter a title</string>
+    <string name="supprimer">Erase</string>
+    <string name="toast_menu_ouvert">Menu is opened</string>
+    <string name="rouvrir">Reopen</string>
+    <string name="aucune_affectation">No person is assigned to this ticket</string>
+    <string name="aucun_jalon">This ticket has no milestones</string>
+    <string name="date_echeance">Due date</string>
+    <string name="etiquettes">Add or remove a label</string>
+    <string name="affectation">No affectation</string>
+    <string name="ajouter_aucun_jalon">No milestone</string>
+    <string name="toast_ticket_ajoute">Ticket added</string>
+    <string name="toast_ticket_modifie">"Ticket modified "</string>
+    <string name="toast_ticket_ferme">Ticket closed</string>
+    <string name="toast_ticket_rouvert">Ticket reopened</string>
+    <string name="nouveau_projet">New project</string>
+    <string name="toast_projet_modifie">Project modified</string>
+    <string name="toast_projet_ajoute">Project added</string>
+
+    <string name="ajouter_tableau_vide">Add Board</string>
+    <string name="modification_tableau_projet_titre">Modification for Board in the Project : </string>
+    <string name="modification_tableau_titre">Modification for Board : </string>
+    <string name="nouveau_titre">New Title</string>
+    <string name="ajout_dans_projet">New Board for Projet : </string>
+    <string name="toast_back_home">You are already at the home page</string>
+    <string name="saisir_recherche">Type your search</string>
+    <string name="nouveau_tableau">New Board</string>
+    <string name="ajouter_tableau">Add board</string>
+    <string name="gestion_liste">Manage Lists</string>
+    <string name="modifier_tableau">Modify Board</string>
+    <string name="supprimer_tableau">Delete Board</string>
+    <string name="ouvert">Open</string>
+    <string name="ferme">Closed</string>
+
+    <!-- Liste -->
+    <string name="ajouter_liste_vide">Add a Board\nto have Lists</string>
+    <string name="retour">Back</string>
+    <string name="gestion_liste_titre">Manage Lists for Board </string>
+    <string name="supprimer_liste">Delete List</string>
+
+
+    <string name="ajouter_date_de_debut">Add a start date</string>
+    <string name="ajouter_date_de_fin">Add a end date</string>
+    <string name="afficher_date_de_debut">Start date</string>
+    <string name="afficher_date_de_fin">End date</string>
+    <string name="couleur">Color (hexadecimal ie : #FF00FF)</string>
+    <string name="fermer">Close</string>
+    <string name="confirmer_le_titre_du_projet">Confirm project title</string>
+    <string name="suppression">ERASE</string>
+    <string name="annuler">Cancel</string>
+    <string name="ajouter_un_ticket">Add a ticket</string>
+    <string name="aucune_description">No description</string>
+    <string name="aucune_etiquette">No label</string>
+    <string name="aucune_date_echeance">No due date</string>
+    <string name="modifier_projet">Edit project</string>
+    <string name="develope_par">Developed by Bryan, Philippe, Sébastien and Simon.</string>
+    <string name="toast_jalon_modifie">Milestone changed!</string>
+    <string name="toast_jalon_ajoute">Milestone added !</string>
+    <string name="toast_jalon_erreur">You must enter a title, a start date and an end date, which follows the start date !</string>
+    <string name="ajouter_date_echeance">Add a due date</string>
+    <string name="message_supprimer_tableau">Delete this table? This will remove the lists from this table.</string>
+    <string name="toast_ticket_selectionne">Nothing selected!</string>
+    <string name="toast_projet_probleme">A problem with registration in the database has occurred!</string>
+    <string name="toast_etiquette_modifie">Label changed!</string>
+    <string name="toast_etiquette_ajoute">Label added!</string>
+    <string name="moi">Myself</string>
+    <string name="toast_etiquette_ajouter_retirer">Add or remove labels!</string>
+    <string name="erreur_validation">Validation error!</string>
+    <string name="toast_erreur_suppresion">Error while deleting!</string>
+    <string name="connexion_base_donne_erreur">Cannot connect to database!</string>
+    <string name="toast_aucun_projet_correspondant">No corresponding projects!</string>
+    <string name="btn_plus_etiquetteS">Labels</string>
+    <string name="btn_plus_jalonS">Milestones</string>
+    <string name="toast_couleur_etiquette">Add a color in the suggested format</string>
+    <string name="toast_etiquette_existe">Label already exist</string>
+
+
+</resources>

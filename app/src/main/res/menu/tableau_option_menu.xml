@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/gestionListe" android:title="@string/gestion_liste"/>
+    <item android:id="@+id/modifierTableau" android:title="@string/modifier_tableau"/>
+    <item android:id="@+id/supprimerTableau" android:title="@string/supprimer_tableau"/>
+</menu>
